@@ -9,3 +9,4 @@
 
     - name: Run application
       shell: nohup java -jar /opt/maven-example-1.0-SNAPSHOT.jar &
+    
